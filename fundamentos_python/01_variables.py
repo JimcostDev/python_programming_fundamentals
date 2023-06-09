@@ -1,6 +1,6 @@
 
 """
- este es un programa para explicar el concepto de variables en python 
+ Este es un programa para explicar el concepto de variables en python.
  autor: Ronaldo Jimenez
  web: www.jimcostdev.com
 """
