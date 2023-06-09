@@ -1,4 +1,4 @@
-# algoritmo que nos muestra que tipo de dato que captura una variable
+# algoritmo que nos muestra que tipo de dato captura una variable.
 
 # variable para almacenar diferetes tipos de datos
 variable = 8
