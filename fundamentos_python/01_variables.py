@@ -4,9 +4,17 @@
  autor: Ronaldo Jimenez
  web: www.jimcostdev.com
 """
-# variable = es un espacio en memoria que su valor cambia a lo largo del algoritmo
+# variable = es un espacio en memoria donde almacenamos un valor y ese valor puede cambiar a lo largo del algoritmo.
 
-variable = True
+nombre = 'Ronaldo Jiménez'
+edad = 23
+profesion = 'Desarrollador'
 
 # imprimir el valor de mi variable
-print(variable)
+print(nombre)
+print(edad)
+print(profesion)
+
+# cambiar el valor de una variable
+profesion = 'Backend Developer'
+print(profesion)
