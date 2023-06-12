@@ -1,3 +1,5 @@
+#Convertir grados Celsius a Fahrenheit
+
 # Declaración de variables
 celsius = 0.0  
 fahrenheit  = 0.0
