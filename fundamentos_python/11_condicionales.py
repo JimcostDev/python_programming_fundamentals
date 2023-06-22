@@ -5,21 +5,21 @@ if False:
   print('nunca se ejecuta')
 
 
-pet = input('cual es tu mascota favorita? ')
+team = input('cual es tu equipo favorito de la premier? ')
 
-if pet == 'perro':
-  print('genial tienes buen gusto')
-elif pet == 'gato':
-  print('espero tengas suerte')
-elif pet == 'pez':
-  print('eres lo maximo')
+if team == 'liverpool':
+  print('Sos de los "Reds"')
+elif team == 'city':
+  print('Sos de los "Citizens"')
+elif team == 'arsenal':
+  print('Sos de los "Gunners"')
 else:
-  print('no tienes ninguna mascota interesante')
+  print('no tienes ninguna equipo interesante')
 
-stock = int(input('Digita el stock => '))
+champions = int(input('¿Cuantas champions tiene tu club? => '))
 
-if stock >= 100 and stock <= 1000:
-  print('el stock es correcto')
+if champions >= 2: 
+  print('¡Son buenos eh!')
 else:
-  print('el stock es incorrecto')
+  print('Estan mejorando')
 
