@@ -2,6 +2,7 @@
 while True:
     print('Mientras la condicon sea "True" el bloque de codigo se va a ejecutar')
     # esto es un ciclo infinito porque siempre esta en True
+    # es muy utilizado cuando no se conocen el numero de iteraciones que vamos a realizar
 '''
 contador = 0
 while contador < 10:

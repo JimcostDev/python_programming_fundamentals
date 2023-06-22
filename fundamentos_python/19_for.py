@@ -1,6 +1,8 @@
 """
 for elemento in range(1, 11):
     print(elemento)
+    # estamos iterando bajo un conjunto de datos:
+    # reccorrer listas, tuplas, diccionario.
 """
 
 #iterar sobre una lista
