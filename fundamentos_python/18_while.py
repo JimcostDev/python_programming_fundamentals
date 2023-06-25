@@ -4,6 +4,7 @@ while True:
     # esto es un ciclo infinito porque siempre esta en True
     # es muy utilizado cuando no se conocen el numero de iteraciones que vamos a realizar
 '''
+# condición
 contador = 0
 while contador < 10:
     print(contador)

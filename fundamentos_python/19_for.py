@@ -7,7 +7,7 @@ for elemento in range(1, 11):
 
 #iterar sobre una lista
 print('iterar sobre una lista: ')
-numeros = [1, 2, 3, 4]
+numeros = [1, 'dos', 3, 4]
 for numero in numeros:
     print(numero)
 
@@ -32,15 +32,15 @@ print()
 people = [
   {
     'name': 'nico',
-    'age': 34
+    'lang': ['py', 'go']
   },
   {
     'name': 'zule',
-    'age': 45
+     'lang': ['js', 'c#']
   },
   {
     'name': 'santi',
-    'age': 4
+     'lang': ['rust', 'php']
   }
 ]
 
@@ -48,5 +48,7 @@ for person in people:
   print(person)
   print('name =>', person['name'])
 
+print(people)
 
-# ejercico: crear una lista de numeros y retornar el doble de esos numeros
+
+# # ejercico: crear una lista de numeros y retornar el doble de esos numeros
