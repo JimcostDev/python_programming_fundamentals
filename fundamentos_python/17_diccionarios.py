@@ -1,5 +1,6 @@
 
 # diccionario = {llave: valor}
+
 persona = {
   'ID': "1234",
   'nombre': 'Ronaldo',
@@ -14,12 +15,15 @@ print()
 persona['nombre'] = 'jimcostdev'
 persona['edad'] += 5
 persona['lenguajes'].append('C#') 
+print(persona)
+print()
 
 # eliminar un valor
 del persona['apellido']
 
 # eliminar con pop() - Espera recibir una llave como parametro
 persona.pop('ID')
+print(persona)
 
 print('items:')
 print(persona.items())
@@ -36,5 +40,5 @@ print(persona.values())
 print(type(persona.values()))
 print()
 
-for clave, valor in persona.items():
-     print(f' clave : {clave}, valor: {valor}')
+# for clave, valor in persona.items():
+#      print(f' clave : {clave}, valor: {valor}')
