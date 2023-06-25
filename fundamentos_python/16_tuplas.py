@@ -19,19 +19,19 @@ print(type(strings))
 
 # CRUD
 # numeros.append(10)
-print(numeros)
+# print(numeros)
 # numeros[1] = 'change'
 
 print(strings)
-print(strings.index('marco'))
+print(strings.index('ronny'))
 print(strings.count('jimcostdev'))
 
-# convertir tupla a lista
+# # convertir tupla a lista
 lista = list(strings)
 print(lista)
 print(type(lista))
 
-lista[1] = 'juli'
+lista[1] = 'barabara'
 print(lista)
 
 # convertir lista a tupla
