@@ -16,38 +16,40 @@ sort(): Ordena automáticamente los ítems de una lista por su valor de menor a 
 
 numeros = [1, 2 , 3 , 4 , 5]
 print(numeros[1])
-numeros[-1] = 10
+numeros[-1] = 10 # actulizacion de valor
 print(numeros)
 
-numeros.append(700)
+# agregar valores 
+numeros.append(700) # agregar valor al final
 print(numeros)
 
-numeros.insert(0, 'hola')
+numeros.insert(3, 'hola') # agregar valor indicando un indice
 print(numeros)
 
-numeros.insert(3, 'change')
-print(numeros)
-
-tareas = ['todo 1', 'todo 2', 'todo 3']
+# concatenar o unir listas
+tareas = ['tarea 1', 'tarea 2', 'tarea 3']
 nueva_lista = numeros + tareas
 print(nueva_lista)
 
-index = nueva_lista.index('todo 2')
-nueva_lista[index] = 'todo changed'
+indice = nueva_lista.index('tarea 3') # buscar indice
+print(indice)
+nueva_lista[indice] = 'tarea nueva 3'
 print(nueva_lista)
 
-nueva_lista.remove('todo 1')
+# eliminar valores
+nueva_lista.remove('tarea 1') # por valor
 print(nueva_lista)
 
-nueva_lista.pop()
+nueva_lista.pop() # elimina el elemento que esta al final
 print(nueva_lista)
 
-nueva_lista.pop(0)
+nueva_lista.pop(0) # por indice
 print(nueva_lista)
 
 nueva_lista.reverse()
 print(nueva_lista)
 
+# ordenar lista
 numeros_a = [1, 4, 6 , 3]
 numeros_a.sort()
 print(numeros_a)
@@ -56,4 +58,4 @@ strings = ['re', 'ab', 'ed']
 strings.sort()
 print(strings)
 
-nueva_lista.sort()
+# nueva_lista.sort()
