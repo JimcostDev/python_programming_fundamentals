@@ -5,10 +5,10 @@ Debe tener en cuenta que para dar el cambio solo puede usar billetes de 10000, 5
 ademas de monedas de 1000, 500, 200, 100, 50. Siempre debe entregar el menor numero 
 posible de billtes y monedas.
 """
-def calcular_cambio(costo, dinero_entregado):
+def calcular_cambio(devuelta):
     billetes = [10000, 5000, 2000, 1000]
     monedas = [500, 200, 100, 50]
-    cambio = dinero_entregado - costo
+    cambio = devuelta
     resultado_billetes = {}
     resultado_monedas = {}
 
@@ -36,7 +36,7 @@ devuelta = valor_pagadoXusuario - valor_producto
 if devuelta == 0:
     print('No se debe devolver nada, pago exacto')
 else:
-    billetes, monedas = calcular_cambio(valor_producto, valor_pagadoXusuario)
+    billetes, monedas = calcular_cambio(devuelta)
 
     print("Cambio a entregar:")
     print("Billetes:")
