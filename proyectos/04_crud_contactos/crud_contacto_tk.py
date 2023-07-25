@@ -8,7 +8,7 @@ from tabulate import tabulate
 server = '.\LOCAL'
 database = 'Test'
 username = 'jimcostdev'
-password = 'josue1:9'
+password = 'xxxxx'
 
 # Establecer conexión a la base de datos
 conn = pyodbc.connect(
