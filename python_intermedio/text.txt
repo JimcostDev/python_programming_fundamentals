@@ -1,0 +1,7 @@
+linea 1
+linea 2
+linea 3
+final
+nuevas cosas en este archivo
+otra linea
+ mas linea
