@@ -27,3 +27,7 @@
 ## Recursos adicionales ℹ️
 
 Encuentra recursos adicionales, enlaces útiles y referencias en: [jimcostdev](https://github.com/JimcostDev)
+
+## Más ejercicios 🐍:
+
+[python-ejercicos](https://github.com/JimcostDev/Python_Ejercicios)
