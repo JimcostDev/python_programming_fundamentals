@@ -10,7 +10,10 @@
 
 - **Python Intermedio:** Esta sección se enfoca en temas más avanzados de Python, como la comprensión de listas, diccionarios y sets, así como el manejo de funciones y errores en el código.
 
+- **Python Microsoft:** Esta guía de estudio proporciona una base sólida para aquellos que deseen aprender Python a través de los recursos y materiales proporcionados por Microsoft.
+
 - **Proyectos del Curso:** Aquí se encuentran los proyectos prácticos que complementan los conocimientos adquiridos en las secciones anteriores. Estos proyectos están diseñados para poner en práctica lo aprendido y fomentar tu creatividad.
+
 
 ## Cómo utilizar este repositorio 🚀
 
@@ -26,7 +29,9 @@
 
 ## Recursos adicionales ℹ️
 
-Encuentra recursos adicionales, enlaces útiles y referencias en: [jimcostdev](https://github.com/JimcostDev)
+1. Encuentra recursos adicionales, enlaces útiles y referencias en: [jimcostdev](https://github.com/JimcostDev)
+
+2. **Aprende Git aquí** [Mis_Apuntes_Git](https://github.com/JimcostDev/Mis_Apuntes_Git)
 
 ## Más ejercicios 🐍:
 

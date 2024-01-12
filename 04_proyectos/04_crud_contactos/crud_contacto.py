@@ -5,7 +5,7 @@ from tabulate import tabulate #pip install tabulate
 server = '.\LOCAL'
 database = 'Test'
 username = 'jimcostdev'
-password = '123456'
+password = 'xxxxx'
 
 conn = pyodbc.connect(
     'DRIVER={SQL Server};SERVER=' + server + ';DATABASE=' + database + ';UID=' + username + ';PWD=' + password
