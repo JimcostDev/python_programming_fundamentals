@@ -86,7 +86,6 @@ Estos cuatro pilares son esenciales para entender cómo funciona la Programació
 ### Resumen:
 La POO nos permite modelar el mundo real de una manera más natural y organizada. Al utilizar clases y objetos, podemos crear programas más flexibles, reutilizables y fáciles de mantener.
 
-### Repaso de los conceptos claves:
 - **Clase**: Un molde para crear objetos.
 - **Objeto**: Una instancia de una clase, como un perro específico.
 - **Atributo**: Una característica de un objeto (nombre, edad, etc.).
