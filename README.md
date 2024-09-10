@@ -36,3 +36,6 @@
 ## Más ejercicios 🐍:
 
 [python-ejercicos](https://github.com/JimcostDev/Python_Ejercicios)
+
+---
+¡Si te resultaron útiles estos proyectos, no olvides darle una ⭐ en GitHub! Tu apoyo nos motiva a crear más contenido y mejorar los recursos disponibles. ¡Gracias! 😊
