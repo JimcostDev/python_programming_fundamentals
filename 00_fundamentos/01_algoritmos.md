@@ -14,7 +14,17 @@ Bienvenido a la guía sobre Lógica de Programación de [jimcostdev.com](http://
 
 ## ¿Qué es un algoritmo?
 
-Un algoritmo es un método que se lleva a cabo paso a paso para resolver un problema y que finaliza en un número limitado de pasos, es decir, es finito.
+Un algoritmo es una serie de pasos ordenados que se siguen para resolver un problema o realizar una tarea. Es como una receta de cocina: debes seguir cada paso en el orden correcto para obtener el resultado deseado. Un buen algoritmo es claro, preciso y tiene un inicio y un final definidos.
+
+**Ejemplo sencillo**:
+
+Imagina que quieres hacer un sándwich. El algoritmo para hacer un sándwich podría ser:
+
+1. Toma dos rebanadas de pan.
+2. Unta mantequilla en una de las rebanadas.
+3. Coloca una rebanada de queso sobre la mantequilla.
+4. Cubre con la otra rebanada de pan.
+5. ¡Listo para comer!
 
 ### Características de un algoritmo
 
