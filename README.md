@@ -19,7 +19,7 @@
 
 1. **Exploración de carpetas:** Navega a través de las carpetas para acceder a los materiales teóricos, ejercicios y proyectos.
 
-2. **PDFs teóricos:** Los PDFs teóricos son una lectura recomendada para comprender los conceptos antes de abordar los ejercicios y proyectos.
+2. **Materiales teóricos:** Dichos recursos son una lectura recomendada para comprender los conceptos antes de abordar los ejercicios y proyectos.
 
 3. **Prueba tus habilidades:** Utiliza los ejercicios y proyectos como oportunidades para aplicar lo aprendido. Experimenta, comete errores y aprende de ellos.
 
