@@ -4,9 +4,9 @@ En esta sección aprenderemos cómo crear algoritmos, desde la identificación d
 
 ## Contenido
 
-1. [Metodología para la creación de algoritmos](#metodología-para-la-creación-de-algoritmos)
-2. [Tipos de datos](#tipos-de-datos)
-3. [Tipos de operadores](#tipos-de-operadores)
+1. [Metodología para la creación de algoritmos](#1-metodología-para-la-creación-de-algoritmos)
+2. [Tipos de datos](#2-tipos-de-datos)
+3. [Tipos de operadores](#3-tipos-de-operadores)
 
 ---
 
