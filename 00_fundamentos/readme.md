@@ -10,15 +10,18 @@ Bienvenido a la sección de Fundamentos de Programación. En esta sección, cubr
 
 3. [estructuras_de_control.md](03_estructuras_de_control.md): Exploración de las estructuras de control de flujo en la programación, como condicionales y bucles, que permiten tomar decisiones y repetir acciones en tus algoritmos.
 
-4. [ejercicios_para_practicar.md](04_ejercicios_para_practicar.md): Una colección de ejercicios diseñados para poner en práctica lo aprendido. Estos ejercicios te ayudarán a consolidar tus habilidades en la creación y manejo de algoritmos.
+4. [estructuras_de_datos.md](06_estructuras_de_datos.md): Introducción a las estructuras de datos. Aquí aprenderás sobre diferentes tipos de estructuras que permiten almacenar y organizar datos de manera eficiente.
 
-5. [solucion_ejercicios.md](05_solucion_ejercicios.md): Soluciones a los ejercicios propuestos en el documento anterior. Revisa las soluciones para entender los enfoques y técnicas correctas para resolver los ejercicios.
+5. [ejercicios_para_practicar.md](04_ejercicios_para_practicar.md): Una colección de ejercicios diseñados para poner en práctica lo aprendido. Estos ejercicios te ayudarán a consolidar tus habilidades en la creación y manejo de algoritmos.
+
+6. [solucion_ejercicios.md](05_solucion_ejercicios.md): Soluciones a los ejercicios propuestos en el documento anterior. Revisa las soluciones para entender los enfoques y técnicas correctas para resolver los ejercicios.
 
 ## ¿Qué Aprenderás?
 
 - **Algoritmos**: Qué son, cómo se definen y cómo se utilizan para resolver problemas paso a paso.
 - **Creación de Algoritmos**: Cómo diseñar algoritmos efectivos que resuelvan problemas específicos.
 - **Estructuras de Control**: Cómo usar estructuras de control para manejar el flujo de ejecución en tus programas.
+- **Estructuras de Datos**: Cómo organizar y almacenar datos de manera eficiente utilizando diferentes tipos de estructuras.
 - **Práctica**: Ejercicios prácticos para aplicar lo aprendido y mejorar tus habilidades.
 - **Soluciones**: Revisar las soluciones de los ejercicios para aprender enfoques correctos y resolver problemas.
 
