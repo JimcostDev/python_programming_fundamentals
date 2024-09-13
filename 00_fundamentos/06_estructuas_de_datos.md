@@ -38,7 +38,7 @@ Las **estructuras de datos lineales** organizan los datos en una secuencia linea
 
 - **Listas enlazadas**: Consisten en nodos donde cada nodo contiene un valor y una referencia al siguiente nodo en la secuencia. Permiten la inserción y eliminación de elementos de manera eficiente.
 
-- **Pilotos (Stacks)**: Una pila es una estructura de datos que sigue el principio LIFO (Last In, First Out). El último elemento agregado es el primero en ser removido.
+- **Pilas (Stacks)**: Una pila es una estructura de datos que sigue el principio LIFO (Last In, First Out). El último elemento agregado es el primero en ser removido.
 
 - **Colas (Queues)**: Una cola sigue el principio FIFO (First In, First Out). El primer elemento agregado es el primero en ser removido.
 
