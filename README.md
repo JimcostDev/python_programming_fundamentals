@@ -65,4 +65,4 @@ Agradecemos a todos los colaboradores por su tiempo y esfuerzo. Tu participació
 
 ---
 
-¡Si te resultaron útiles estos proyectos, no olvides darle una ⭐ en GitHub! Tu apoyo nos motiva a crear más contenido y mejorar los recursos disponibles. ¡Gracias! 😊
+¡Si te resulta útil este proyecto, no olvides darle una ⭐! Tu apoyo nos motiva a crear más contenido y mejorar los recursos disponibles. ¡Gracias! 😊
