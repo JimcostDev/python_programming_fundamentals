@@ -57,13 +57,12 @@ Agradecemos a todos los colaboradores por su tiempo y esfuerzo. Tu participació
 
 ## Recursos Adicionales ℹ️
 
-1. Encuentra recursos adicionales, enlaces útiles y referencias en: [jimcostdev](https://github.com/JimcostDev)
+[![GitHub](https://img.shields.io/badge/GitHub-JimcostDev-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/JimcostDev)
 
-2. **Aprende Git aquí**: [Mis_Apuntes_Git](https://github.com/JimcostDev/Mis_Apuntes_Git)
 
-## Más Ejercicios 🐍
-
-[python-ejercicios](https://github.com/JimcostDev/Python_Ejercicios)
+1. **Aprende Git aquí**: [Mis_Apuntes_Git](https://github.com/JimcostDev/Mis_Apuntes_Git)
+2. **Pon a prueba tu lógica con:** [python-ejercicios](https://github.com/JimcostDev/Python_Ejercicios) 🐍
+   
 
 ## Howdy, soy Ronaldo Jiménez 👋🏻
 ### Software Engineer & Web Developer :octocat:
@@ -77,6 +76,4 @@ Agradecemos a todos los colaboradores por su tiempo y esfuerzo. Tu participació
 <!-- frase de EGW -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1B82AB&random=false&width=1280&lines="Ponte+un+blanco+alto+y+haz+fervientes+esfuerzos+por+alcanzarlo+y+no+te+desanimes.")](https://git.io/typing-svg) 
 
-### Más información
 
-[![GitHub](https://img.shields.io/badge/GitHub-JimcostDev-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/JimcostDev)
