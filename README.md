@@ -2,6 +2,8 @@
 
 ¡Bienvenido al repositorio **Python Programming Fundamentals**! Este repositorio está diseñado para ofrecer una guía completa, desde los conceptos básicos de la programación hasta el dominio práctico de Python.
 
+![](./imgs/header.png)
+
 ## Contenido 📚
 
 ### 1. Fundamentos de Programación
