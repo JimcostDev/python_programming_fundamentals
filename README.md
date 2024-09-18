@@ -4,7 +4,7 @@
 
 ![](./imgs/header.png)
 
-> !Si te resulta útil este proyecto, apóyalo! Pínchale una ⭐
+> !Si te resulta útil este proyecto, apóyalo con una ⭐! Tu apoyo nos motiva a crear más contenido y mejorar los recursos disponibles. ¡Gracias! :octocat:
 
 ## Contenido 📚
 
@@ -64,10 +64,6 @@ Agradecemos a todos los colaboradores por su tiempo y esfuerzo. Tu participació
 ## Más Ejercicios 🐍
 
 [python-ejercicios](https://github.com/JimcostDev/Python_Ejercicios)
-
----
-
-¡Si te resulta útil este proyecto, no olvides darle una ⭐! Tu apoyo nos motiva a crear más contenido y mejorar los recursos disponibles. ¡Gracias! 😊
 
 ## Howdy, soy Ronaldo Jiménez 👋🏻
 ### Software Engineer & Web Developer :octocat:
