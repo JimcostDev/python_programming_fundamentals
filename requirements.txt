@@ -1,0 +1,6 @@
+alembic==1.14.0
+fastapi['standard']==0.115.6
+psycopg2==2.9.10
+sqlmodel==0.0.22
+tzdata==2024.2
+pytest==8.3.4
