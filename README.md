@@ -2,7 +2,7 @@
 
 ¡Bienvenido al repositorio **Python Programming Fundamentals**! Este repositorio está diseñado para ofrecer una guía completa, desde los conceptos básicos de la programación hasta el dominio práctico de Python.
 
-![](./imgs/header.png)
+![](./imgs/curso-python.jpg)
 
 > !Si te resulta útil este proyecto, apóyalo con una ⭐! Tu apoyo nos motiva a crear más contenido y mejorar los recursos disponibles. ¡Gracias! :octocat:
 
