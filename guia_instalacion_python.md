@@ -16,7 +16,6 @@
    - Escribe `python --version` y presiona Enter.
    - Si ves algo como `Python 3.x.x`, la instalación fue exitosa.
 
----
 > ## Nota: 
 > #### Linux
 > En la mayoría de las distribuciones de Linux modernas, Python suele estar preinstalado:
