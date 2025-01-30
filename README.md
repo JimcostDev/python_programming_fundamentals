@@ -1,6 +1,6 @@
-# Fundamentos de Programación y Programación con Python - Curso Completo 🖥️
+# Fundamentos de Programación en Python 
 
-¡Bienvenido al repositorio **Python Programming Fundamentals**! Este repositorio está diseñado para ofrecer una guía completa, desde los conceptos básicos de la programación hasta el dominio práctico de Python.
+Este curso está diseñado para ofrecer una guía completa desde los conceptos básicos de programación hasta el dominio práctico de Python. Explora los conceptos básicos de Python con ejemplos claros y prácticos para reforzar tu comprensión.
 
 ![](./imgs/curso-python.jpg)
 
@@ -20,8 +20,11 @@ Esta sección se enfoca en [temas más avanzados de Python](./02_python_intermed
 ### 4. Python Microsoft
 Proporciona una base sólida para aquellos que deseen aprender Python a través de los recursos y [materiales proporcionados por Microsoft](./03_curso_python_microsoft).
 
-### 5. Proyectos del Curso
-Aquí se encuentran los [proyectos prácticos](./04_proyectos/) que complementan los conocimientos adquiridos en las secciones anteriores. Estos proyectos están diseñados para poner en práctica lo aprendido y fomentar tu creatividad.
+### 5. Programación Orientada a Objetos (POO)  
+La [Programación Orientada a Objetos (POO)](./04_poo/) es un paradigma que permite estructurar el código en torno a objetos que representan entidades del mundo real. A través de conceptos como clases, objetos, herencia, polimorfismo y encapsulamiento. En esta sección, exploraremos estos principios y su aplicación en el desarrollo de software.  
+
+### 6. Proyectos del Curso
+Aquí se encuentran los [proyectos prácticos](./05_proyectos/) que complementan los conocimientos adquiridos en las secciones anteriores. Estos proyectos están diseñados para poner en práctica lo aprendido y fomentar tu creatividad.
 
 ## Cómo Utilizar Este Repositorio 🚀
 
