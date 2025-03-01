@@ -2,7 +2,7 @@
 
 Este curso está diseñado para ofrecer una guía completa desde los conceptos básicos de programación hasta el dominio práctico de Python. Explora los conceptos básicos de Python con ejemplos claros y prácticos para reforzar tu comprensión.
 
-![](./imgs/curso-python.jpg)
+![python-bg](./imgs/curso-python.webp)
 
 > !Si te resulta útil este proyecto, apóyalo con una ⭐! Tu apoyo nos motiva a crear más contenido y mejorar los recursos disponibles. ¡Gracias! :octocat:
 
