@@ -63,7 +63,7 @@ Agradecemos a todos los colaboradores por su tiempo y esfuerzo. Tu participació
 [![GitHub](https://img.shields.io/badge/GitHub-JimcostDev-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/JimcostDev)
 
 
-1. **Aprende Git aquí**: [Mis_Apuntes_Git](https://github.com/JimcostDev/Mis_Apuntes_Git)
+1. **Aprende Git aquí**: [my-git-notes](https://github.com/JimcostDev/my-git-notes)
 2. **Pon a prueba tu lógica con:** [python-ejercicios](https://github.com/JimcostDev/Python_Ejercicios) 🐍
    
 
