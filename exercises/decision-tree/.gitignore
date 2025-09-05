@@ -1,0 +1,28 @@
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+env/
+venv/
+ENV/
+
+# Archivos de distribución y empaquetado
+build/
+dist/
+*.egg-info/
+
+# Notebooks (si los utilizas)
+.ipynb_checkpoints/
+
+# Datos descargados
+Admission_Predict.csv
+
+# Archivos de configuración de editores/IDE
+.vscode/
+.idea/
+
+# Logs y archivos temporales
+*.log
+*.tmp

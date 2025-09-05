@@ -1,0 +1,134 @@
+# Archivos y directorios de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+env/
+venv/
+ENV/
+VENV/
+env.bak/
+venv.bak/
+
+# Archivos de configuración de entornos
+*.env
+
+# Archivos de registro
+*.log
+
+# Archivos de bases de datos locales
+*.sqlite3
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos de distribución
+build/
+dist/
+*.egg-info/
+
+# Archivos de paquetes
+*.egg
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+wheels/
+share/python-wheels/
+
+# Archivos de instalación
+*.manifest
+*.spec
+
+# Archivos de PyInstaller
+# Generalmente, estos archivos son generados por un script de Python a partir de una plantilla
+# antes de que PyInstaller construya el ejecutable, para inyectar información de fecha/u otra en él.
+
+# Archivos de Sphinx
+docs/_build/
+
+# Archivos de pytest
+.pytest_cache/
+
+# Archivos de mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Archivos de cobertura
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Archivos de IPython
+profile_default/
+ipython_config.py
+
+# Archivos de pyenv
+.python-version
+
+# Archivos de pipenv
+# Según pypa/pipenv#598, se recomienda incluir Pipfile.lock en el control de versiones.
+# Sin embargo, en caso de colaboración, si se tienen dependencias específicas de la plataforma
+# o dependencias que no tienen soporte multiplataforma, pipenv puede instalar dependencias
+# que no funcionen, o no instalar todas las dependencias necesarias.
+#Pipfile.lock
+
+# Archivos de poetry
+# Similar a Pipfile.lock, generalmente se recomienda incluir poetry.lock en el control de versiones.
+# Esto es especialmente recomendable para paquetes binarios para asegurar la reproducibilidad,
+# y es más común ignorarlo para bibliotecas.
+# https://python-poetry.org/docs/basic-usage/#commit-your-poetrylock-file-to-version-control
+#poetry.lock
+
+# Archivos de pdm
+# Similar a Pipfile.lock, generalmente se recomienda incluir pdm.lock en el control de versiones.
+#pdm.lock
+
+# pdm almacena configuraciones a nivel de proyecto en .pdm.toml, pero se recomienda no incluirlo
+# en el control de versiones.
+
+# Archivos de Django
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Archivos de Flask
+instance/
+.webassets-cache
+
+# Archivos de Scrapy
+.scrapy
+
+# Archivos de PyBuilder
+.pybuilder/
+target/
+
+# Archivos de editores y sistemas operativos
+# Archivos de Visual Studio Code
+.vscode/
+
+# Archivos de JetBrains (PyCharm, IntelliJ)
+.idea/
+*.iml
+
+# Archivos de macOS
+.DS_Store
+
+# Archivos de Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Archivos de Linux
+*~

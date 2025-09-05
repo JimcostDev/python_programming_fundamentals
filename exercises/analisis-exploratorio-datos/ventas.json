@@ -1,0 +1,22 @@
+[
+    {"id": 1, "producto": "Camiseta", "cantidad": 2, "precio": 20, "fecha": "2025-01-01"},
+    {"id": 2, "producto": "Pantalones", "cantidad": 1, "precio": 40, "fecha": "2025-01-01"},
+    {"id": 3, "producto": "Zapatos", "cantidad": 1, "precio": 60, "fecha": "2025-01-02"},
+    {"id": 4, "producto": "Camiseta", "cantidad": 3, "precio": 20, "fecha": "2025-01-03"},
+    {"id": 5, "producto": "Sudadera", "cantidad": 1, "precio": 50, "fecha": "2025-01-04"},
+    {"id": 6, "producto": "Pantalones", "cantidad": 2, "precio": 40, "fecha": "2025-01-05"},
+    {"id": 7, "producto": "Zapatos", "cantidad": 1, "precio": 60, "fecha": "2025-01-06"},
+    {"id": 8, "producto": "Camiseta", "cantidad": 1, "precio": 20, "fecha": "2025-01-07"},
+    {"id": 9, "producto": "Sudadera", "cantidad": 2, "precio": 50, "fecha": "2025-01-08"},
+    {"id": 10, "producto": "Pantalones", "cantidad": 1, "precio": 40, "fecha": "2025-01-09"},
+    {"id": 11, "producto": "Zapatos", "cantidad": 2, "precio": 60, "fecha": "2025-01-10"},
+    {"id": 12, "producto": "Camiseta", "cantidad": 1, "precio": 20, "fecha": "2025-01-11"},
+    {"id": 13, "producto": "Sudadera", "cantidad": 1, "precio": 50, "fecha": "2025-01-12"},
+    {"id": 14, "producto": "Pantalones", "cantidad": 3, "precio": 40, "fecha": "2025-01-13"},
+    {"id": 15, "producto": "Zapatos", "cantidad": 1, "precio": 60, "fecha": "2025-01-14"},
+    {"id": 16, "producto": "Camiseta", "cantidad": 2, "precio": 20, "fecha": "2025-01-15"},
+    {"id": 17, "producto": "Sudadera", "cantidad": 1, "precio": 50, "fecha": "2025-01-16"},
+    {"id": 18, "producto": "Pantalones", "cantidad": 1, "precio": 40, "fecha": "2025-01-17"},
+    {"id": 19, "producto": "Zapatos", "cantidad": 2, "precio": 60, "fecha": "2025-01-18"},
+    {"id": 20, "producto": "Camiseta", "cantidad": 1, "precio": 20, "fecha": "2025-01-19"}
+  ]
